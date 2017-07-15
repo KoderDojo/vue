@@ -11,4 +11,4 @@ I have numerous pens on CodePen that show how to:
 * Integrate **vuex** and **vue-router**, and
 * Use various component libraries like **Vuetify**.
 
-You can find a [list of the Vue CodePen Pens](codepen/readme.md) in this repository or visit the [CodePen Vue Collection](https://codepen.io/collection/DworBa/) directly.
+You can find a [list of the Vue CodePen Pens](codepen/) in this repository or visit the [CodePen Vue Collection](https://codepen.io/collection/DworBa/) directly.
